@@ -3,6 +3,9 @@ Total Plant Health & Environment Monitoring System
 Automatic Plant Hydrating System with a Buzzer
 The idea behind this Arduino-based project was given that India is an agricultural based country and the fact that most Indians too have small gardens/lawns of their own, this project make sure that most of the menial work could be eliminated and could create a self-reliant environment of its own.
 
+Youtube Link:
+https://youtu.be/h0mGvLNj-cs
+
 The main parts of the project were:
 
 • Coding the Arduino board to perform the required functions.
